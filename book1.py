@@ -46,6 +46,11 @@ j = 70 // 3
 print (j)
 '''
 
+'''
+Retorna a classe de um objeto
+'''
+
+'''
 k = type (1 + 2.0)
 print (k)
 
@@ -54,3 +59,4 @@ print(l)
 
 m = type(3*1)
 print(m)
+'''

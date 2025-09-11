@@ -60,3 +60,48 @@ print(l)
 m = type(3*1)
 print(m)
 '''
+
+'''
+Strings - textos
+'''
+
+'''
+n = "Bolsonaro vai ser preso"
+print(n)
+
+o = "Ariana" 'Grande'
+print(o)
+'''
+
+'''
+len(string)
+variavel[indice]
+str[1:2]
+'''
+
+'''
+str = "minhoca"
+print(len(str))
+print(str[0])
+print(str[1])
+print(str[2])
+print(str[3])
+print(str[4])
+print(str[5])
+print(str[6])
+print(str[0:3])
+print(str[1:5])
+print(str[:7])
+'''
+
+'''
+testando true e  false
+'''
+'''
+a = 'maracana'
+print("m" in a)
+print('x' not in a)
+print('y' in a)
+print("m"+"aracana")
+print("a"*3)
+'''

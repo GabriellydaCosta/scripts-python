@@ -87,6 +87,8 @@ Fazer os seguintes exercícios:
 11) ler largura e altura de uma parede em metros e calcular area e quantidade de tinta para pintar. 1l pinta 2m² (fazer interface para esse)
 12) ler preço do produto e mostrar o novo preço com 5% de desconto
 13) ler salário do funcionário e mostrar novo salário com 15% de aumento
+14) Conversão de graus de celsius para fahrenhit
+15) leia quantidade de Km percorridos por um carro alugado e a quantidade de dias que foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 '''
 
 
